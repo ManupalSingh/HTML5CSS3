@@ -1,0 +1,53 @@
+body{
+	font-family: Calibri ,'Lucida Sans Unicode';
+	background-color:#740247;
+}
+.Purple{
+	color:#FFF;
+	width:90%;
+	background-color:#740247;
+	border: 10px #ecabd2 solid;
+	border-radius:20px;
+	padding: 10px 10px;
+	margin: 50px 50px;
+	float:left;
+}
+.yellow{
+	background-color:#fff68f;
+	height:25px;
+	width:210px;
+	padding:20px 20px;
+	border-radius:4px;
+	color:#222;
+	position:relative;
+	left:190px;
+}
+.Purple p{
+	width:500px;
+	float:left;
+}
+.white{
+	color:#FFF;
+	overflow:none;
+	margin:50px 50px;
+}
+.foot{
+	background-color:#222;
+	color:#FFF;
+	font-weight:bold;
+	height:20px;
+	padding:10px 10px;
+}
+.foot a{
+	text-decoration:none;
+	float:left;
+	margin-right:50px;
+}
+.image{
+	border:8px #FFF solid;
+	-webkit-transform:rotate(-7deg);
+	height:200px;
+	width:200px;
+	margin-left:100px;
+	margin-bottom:40px;
+}
